@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test Passed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshit-devops-2311/github-actions-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harshit-devops-2311/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/harshit-devops-2311/github-actions-nodejs#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
